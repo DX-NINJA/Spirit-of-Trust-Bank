@@ -1,3 +1,3 @@
 https://dx-ninja.github.io/Spirit-of-Trust-Bank/
 
-Fun bank
+Fun bank is our bank
